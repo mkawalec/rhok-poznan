@@ -1,0 +1,31 @@
+body {
+    width: 800px;
+    margin: 30px auto;
+}
+
+#header {
+    font-family: Monospace;
+    font-size: 15px;
+    line-height: 16px;
+}
+
+#flags {
+    width: 16px;
+    position: relative;
+    left: -26px;
+
+    float: left;
+}
+
+#flags img {
+    cursor: pointer;
+}
+
+
+#body {
+    float: left;
+
+    position: relative;
+    left: -14px;
+    padding: 2px;
+}
