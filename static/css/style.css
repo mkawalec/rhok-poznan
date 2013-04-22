@@ -28,4 +28,10 @@ body {
     position: relative;
     left: -14px;
     padding: 2px;
+    width: 750px;
+}
+
+.repo {
+    width: auto;
+    text-align: right;
 }
