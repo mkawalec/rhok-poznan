@@ -84,4 +84,5 @@ abs = (num) ->
     return num
 
 header = new Animated $('#header')
+pozn = new Animated $('#pozn')
 body = new Body $('#body')
