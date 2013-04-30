@@ -103,8 +103,19 @@ body {
     text-align: right;
 
     margin-top: 50px;
+    width: 100%;
+    float: left;
 }
 
 #map {
     height: 200px;
+}
+
+.logo {
+    float: left;
+    margin-left: 10px;
+}
+
+.logo img {
+    border: none;
 }
