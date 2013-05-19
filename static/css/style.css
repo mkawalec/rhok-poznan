@@ -128,3 +128,29 @@ body {
     background-color: #DEF0FF;
     padding: 2px;
 }
+
+.jury {
+    float: left;
+
+    width: 250px;
+    margin-right: 25px;
+}
+
+.jury .name {
+    font-weight: bold;
+    font-size: 17px;
+
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
+    
+.jury .desc {
+    text-align: justify;
+
+}
+
+#ludzie {
+    width: 850px;
+    float: left;
+}
